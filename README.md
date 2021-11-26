@@ -30,8 +30,6 @@ The Ultimate Home Lab Guide from the I.T. Career Questions Community
   </ol>
 </details>
 
-
-
 <!-- ABOUT HOME LABS -->
 ## About HOME LABS
 
@@ -48,3 +46,16 @@ You will find examples of homelabs from all walks of the Information Technology 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+
+* Cybersecurity/Penetration Testing
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
