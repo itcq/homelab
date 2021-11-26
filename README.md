@@ -9,7 +9,7 @@ The Ultimate Home Lab Guide from the I.T. Career Questions Community
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-home-labs">About HOME LABS</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -32,8 +32,8 @@ The Ultimate Home Lab Guide from the I.T. Career Questions Community
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ABOUT HOME LABS -->
+## About HOME LABS
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
