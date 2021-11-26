@@ -52,8 +52,16 @@ You will find examples of homelabs from all walks of the Information Technology 
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+Depending on your budget and/or ability to obtain the physical hardware(servers, routers, switches, etc..) it will almost always be cheaper to virtualize a lab environment from your existing computer. 
 
-* Cybersecurity/Penetration Testing
+You can obtain the physical hardware and equipment through eBay, Craigslist, Facebook, LinkedIn, and More(Contribute to this section?)
+
+* eBay:
+  * Servers:
+  * Routers
+  * Switches: 
+* Craigslist: https://craigslist.com
+  * Craigslist is location based
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
