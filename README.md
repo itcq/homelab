@@ -50,7 +50,7 @@ You will find examples of homelabs from all walks of the Information Technology 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Depending on your budget and/or ability to obtain the physical hardware(servers, routers, switches, etc..) it will almost always be cheaper to virtualize a lab environment from your existing computer. 
+Depending on your budget and/or ability to obtain the physical hardware(servers, routers, switches, etc..) it will almost always be cheaper to virtualize a lab environment from your existing computer. [See the Prerequisites Section](##Prerequisites)
 
 You can obtain the physical hardware and equipment through eBay, Craigslist, Facebook, LinkedIn, and More(Contribute to this section?)
 
@@ -61,7 +61,18 @@ You can obtain the physical hardware and equipment through eBay, Craigslist, Fac
 * Craigslist: https://craigslist.com
   * Craigslist is location based
 
-### Prerequisites
+Please Note: When you require physical hardware/equipment it will be important to follow specific guides and/or setup tutorials in relation to the specific model of equipment you obtain.
+
+For instance booting into the BIOS from different manufacturers may differ depending on the model.  This is important to note when installing Operating Systems, Software, or other Firmware and miscellanious upgrades that may require booting from different media, like USBs or CD/DVD's, and/or booting from the network.
+
+When completing initial confirgurations or troubleshooting issues with specific hardware you will want to include in your Google searches: 'the "*issue*" plus "*model name/number*"'
+
+<!-- Prerequisites -->
+## Prerequisites
+
+
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
