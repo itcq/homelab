@@ -61,7 +61,7 @@ You can obtain the physical hardware and equipment through eBay, Craigslist, Fac
 * Craigslist: https://craigslist.com
   * Craigslist is location based
 
-
+### Prerequisites
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
