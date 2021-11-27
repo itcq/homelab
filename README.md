@@ -49,9 +49,15 @@ You will find examples of homelabs from all walks of the Information Technology 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started with a Physical Lab
+---
+### <p align="center">`Before we begin discussing the physical lab portion, Virtualization and Cloud Providers are the recommended resources to utilize when creating a home lab.`</p>
+---
+Depending on your budget and/or ability to obtain the physical hardware(servers, routers, switches, etc..) it will almost always be cheaper to virtualize a lab environment from your existing computer or to utilize the free resources that Amazon's Web Services(AWS) or Microsoft Azure are able to provide.
 
-Depending on your budget and/or ability to obtain the physical hardware(servers, routers, switches, etc..) it will almost always be cheaper to virtualize a lab environment from your existing computer. [See the Prerequisites Section](##Prerequisites)
+> AWS Free Tier: https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
+
+> Microsoft Azure Free Tier: https://azure.microsoft.com/en-us/free/
 
 You can obtain the physical hardware and equipment through eBay, Craigslist, Facebook, LinkedIn, and More(Contribute to this section?)
 
@@ -61,12 +67,20 @@ You can obtain the physical hardware and equipment through eBay, Craigslist, Fac
   * Switches: 
 * Craigslist: https://craigslist.com
   * Craigslist is location based
+* Facebook Groups
+  * Facebook Groups are location based
+* LinkedIn
+  * It's possible you can get lucky through creating valuable connections you can start to obtain older/cheaper equipment.
+* Meet Ups
+  * It is not advised going to Meet Ups purely to obtain free or cheap equipment but this may be an avenue as well.
 
-Please Note: When you require physical hardware/equipment it will be important to follow specific guides and/or setup tutorials in relation to the specific model of equipment you obtain.
+Please Note: When you acquire physical hardware/equipment it will be important to follow specific guides and/or setup tutorials in relation to the specific model of equipment you obtain.
 
 For instance booting into the BIOS from different manufacturers may differ depending on the model.  This is important to note when installing Operating Systems, Software, or other Firmware and miscellanious upgrades that may require booting from different media, like USBs or CD/DVD's, and/or booting from the network.
 
 When completing initial confirgurations or troubleshooting issues with specific hardware you will want to include in your Google searches: 'the "*issue*" plus "*model name/number*"'
+
+ie: "How to Boot to BIOS on a Dell PowerEdge R720"
 
 <!-- Prerequisites -->
 ## Prerequisites
