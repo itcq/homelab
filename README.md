@@ -48,6 +48,28 @@ You will find examples of homelabs from all walks of the Information Technology 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!--  What Kind of Home Lab do I need? -->
+## What Kind of Home Lab do I need?
+
+This will all depend on your level of experience and the avenue of I.T. you are looking to pursue.  As you are begining your career or just starting to learn about I.T. in general we can build out very simple labs by virtualizing different operating systems, even virtualizing network equipment like routers and switches to keep things as simple and as minimal cost as possible.
+
+You can also obtain physical equipment for your home lab as well as some people may prefer working with the physical hardware in front of them.
+
+### Types of Home Labs
+
+The following list are the most common types of home labs that are built.
+``` 
+Please Note:
+Depending on your interests and availibility of resources each home lab
+can and will be different from one another.  This is okay.
+``` 
+
+* Help Desk Home Labs
+* Systems Administrator Home Labs
+* Network Administrator Home Labs
+* Cloud Engineers Home Labs
+* Cybersecurity/Penetration Testing Home Labs
+
 <!-- GETTING STARTED -->
 ## Getting Started with a Physical Lab
 ---
@@ -74,14 +96,20 @@ You can obtain the physical hardware and equipment through eBay, Craigslist, Fac
 * Meet Ups
   * It is not advised going to Meet Ups purely to obtain free or cheap equipment but this may be an avenue as well.
 
-Please Note: When you acquire physical hardware/equipment it will be important to follow specific guides and/or setup tutorials in relation to the specific model of equipment you obtain.
+``` 
+Please Note: When you acquire physical hardware/equipment it will be important to follow specific
+guides and/or setup tutorials in relation to the specific model of equipment you obtain.
 
-For instance booting into the BIOS from different manufacturers may differ depending on the model.  This is important to note when installing Operating Systems, Software, or other Firmware and miscellanious upgrades that may require booting from different media, like USBs or CD/DVD's, and/or booting from the network.
+For instance booting into the BIOS from different manufacturers may differ depending on the model.  
+This is important to note when installing Operating Systems, Software, or other Firmware and miscellanious
+upgrades that may require booting from different media, like USBs or CD/DVD's, and/or booting from the network.
 
-When completing initial confirgurations or troubleshooting issues with specific hardware you will want to include in your Google searches: 'the "*issue*" plus "*model name/number*"'
+When completing initial confirgurations or troubleshooting issues with specific hardware you will want
+to include in your Google searches: the "*issue*" plus "*model name/number*"
 
-ie: "How to Boot to BIOS on a Dell PowerEdge R720"
+ie: "How to Boot to BIOS on a Dell PowerEdge R720" 
 
+``` 
 <!-- Prerequisites -->
 ## Prerequisites
 
