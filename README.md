@@ -50,8 +50,6 @@ You will find examples of homelabs from all walks of the Information Technology 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Depending on your budget and/or ability to obtain the physical hardware(servers, routers, switches, etc..) it will almost always be cheaper to virtualize a lab environment from your existing computer. 
 
 You can obtain the physical hardware and equipment through eBay, Craigslist, Facebook, LinkedIn, and More(Contribute to this section?)
