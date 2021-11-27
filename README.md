@@ -38,37 +38,31 @@ The Ultimate Home Lab Guide from the I.T. Career Questions Community
 
 This will act as an up-to-date guide to building your own personal home lab.  This guide will be developed over time and with the contribution of the community.
 
-You will find examples of homelabs from all walks of the Information Technology field, such as:
-* Help Desk
-* Systems Administrators
-* etwork Administrators
-* Cloud Engineers
-* Cybersecurity/Penetration Testing
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!--  What Kind of Home Lab do I need? -->
 ## What Kind of Home Lab do I need?
 
-This will all depend on your level of experience and the avenue of I.T. you are looking to pursue.  As you are begining your career or just starting to learn about I.T. in general we can build out very simple labs by virtualizing different operating systems, even virtualizing network equipment like routers and switches to keep things as simple and as minimal cost as possible.
+This will all depend on your level of experience and the avenue of I.T. you are looking to pursue.  As you are begining your career or just starting to learn about I.T. in general we can build out very simple labs by virtualizing different operating systems, even virtualizing network equipment like routers and switches to keep things as simple and as minimal cost as possible.  You can also obtain physical equipment for your home lab as well as some people may prefer working with the physical hardware in front of them.
 
-You can also obtain physical equipment for your home lab as well as some people may prefer working with the physical hardware in front of them.
+In this guide our primary focus will be Entry Level Home Labs that you can build to start building fundamental knowledge and experience in some of the most common tools and technologies used every day in real world I.T. positions.
+
+If you are just starting out in the world of infomration technology this guide will provide the resources and information you will need to pursue an entry level role in I.T. and/or gear your hands-on experience towards a specific area of technology that you are interested in.
 
 ### Types of Home Labs
 
 The following list are the most common types of home labs that are built.
+We will mostly be working with Entry Level Home Labs in this guide and will will link to external resources that can help highlight more in depth walkthroughs building more advanced labs.
+
 ``` 
-Please Note:
-Depending on your interests and availibility of resources each home lab
-can and will be different from one another.  This is okay.
+**the difficulty level and/or resources required increase in order of descension:**
+1. Entry Level Home Labs
+2. Systems Administrator Home Labs
+3. Network Administrator Home Labs
+4. Cybersecurity/Penetration Testing Home Labs
 ``` 
 
-* Help Desk Home Labs
-* Systems Administrator Home Labs
-* Network Administrator Home Labs
-* Cloud Engineers Home Labs
-* Cybersecurity/Penetration Testing Home Labs
+
 
 <!-- GETTING STARTED -->
 ## Getting Started with a Physical Lab
