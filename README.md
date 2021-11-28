@@ -49,7 +49,9 @@ In this guide our primary focus will be Entry Level Home Labs that you can build
 
 If you are just starting out in the world of infomration technology this guide will provide the resources and information you will need to pursue an entry level role in I.T. and/or gear your hands-on experience towards a specific area of technology that you are interested in.
 
-### Types of Home Labs
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Types of Home Labs
 
 The following list are the most common types of home labs that are built.
 We will mostly be working with Entry Level Home Labs in this guide and will will link to external resources that can help highlight more in depth walkthroughs building more advanced labs.
@@ -61,8 +63,65 @@ We will mostly be working with Entry Level Home Labs in this guide and will will
 3. Network Administrator Home Labs
 4. Cybersecurity/Penetration Testing Home Labs
 ``` 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
+## Home Lab Requirements
+
+Depending on your budget and available resources you will need to determine what is most appropriate to your situation.
+
+### Networking Home Lab Requirements:
+
+* Working Router(Models: )
+* Working Switch(Models: )
+* USB Console Cable(USB Preferred)
+* Computer(Laptop or Desktop: Running any modern operating system - Windows/Linux/Mac)
+  * Anything from the last 5-8 years should be more than sufficient
+  * Multi-Core Processor Preffered
+  * At least 4GB of RAM(8GB+ Preferred)
+  * At least 40GB+ of HDD Space
+* Multiple computers or capability of virtualizing multiple computers would be highly preferred, but not required.
+  
+``` 
+**the difficulty level and/or resources required increase in order of descension:**
+1. Entry Level Home Labs
+2. Systems Administrator Home Labs
+3. Network Administrator Home Labs
+4. Cybersecurity/Penetration Testing Home Labs
+``` 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Every Other Home Lab Requirements:
+
+It is important to know and understand the minimal requirements of the software and applications you will be utilizing to verify the equipment you will be using will have sufficient resources to provide an optimal experience.
+
+You can find the bare minimum requirements for some of the more popular operating systems listed below so you can get an idea:
+
+| OS:      | Windows 11 | Windows Server 2022 | Ubuntu(Linux) |
+| ----------- | ----------- | ----------- | ----------- |
+| Processor:      | 1 gigahertz (GHz) or faster with two or more cores on a compatible 64-bit processor or system on a chip (SoC).    | 1.4 GHz 64-bit processor        | 2 GHz dual core processor |
+| RAM:   | 4 gigabytes (GB) or greater       | 512 MB (2 GB for Server with Desktop Experience installation option)       | 4 GB RAM |
+| Hard Drive:   | 64 GB       | Minimum: 32 GB       | 25 GB |
+
+
+* Working Router(Models: )
+* Working Switch(Models: )
+* USB Console Cable(USB Preferred)
+* Computer(Laptop or Desktop: Running any modern operating system - Windows/Linux/Mac)
+  * Anything from the last 5-8 years should be more than sufficient
+  * Multi-Core Processor Preffered
+  * At least 4GB of RAM(8GB+ Preferred)
+  * At least 40GB+ of HDD Space
+
+  
+``` 
+**the difficulty level and/or resources required increase in order of descension:**
+1. Entry Level Home Labs
+2. Systems Administrator Home Labs
+3. Network Administrator Home Labs
+4. Cybersecurity/Penetration Testing Home Labs
+``` 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started with a Physical Lab
@@ -94,7 +153,7 @@ You can obtain the physical hardware and equipment through eBay, Craigslist, Fac
 Please Note: When you acquire physical hardware/equipment it will be important to follow specific
 guides and/or setup tutorials in relation to the specific model of equipment you obtain.
 
-For instance booting into the BIOS from different manufacturers may differ depending on the model.  
+For instance booting into the BIOS from different manufacturers(HP, Dell, Lenovo, ETC..) may differ depending on the model.
 This is important to note when installing Operating Systems, Software, or other Firmware and miscellanious
 upgrades that may require booting from different media, like USBs or CD/DVD's, and/or booting from the network.
 
@@ -104,6 +163,27 @@ to include in your Google searches: the "*issue*" plus "*model name/number*"
 ie: "How to Boot to BIOS on a Dell PowerEdge R720" 
 
 ``` 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### When Purchasing Used Equipment
+
+Verify that everything is working or if the piece of equipment is being sold as is.
+
+You will often find you can save a significant amount of money from buying used routers and switches that have broken ports on them.
+
+You may also find that you can save money on servers/computers from purchasing them with no hard drives or RAM.
+*please *note: Please be sure to look up the price of hard drives and RAM for the specific models of equipment you are purchasing, sometimes you will find that hard drives and even RAM for older equipment can still be fairly costly to obtain.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- GETTING STARTED VIRTUAL LAB -->
+## Getting Started with a Virtual Lab
+
+
+
+
 <!-- Prerequisites -->
 ## Prerequisites
 
